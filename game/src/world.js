@@ -128,7 +128,7 @@ export function buildYard(scene) {
       new THREE.Vector3(-6, 0, -14.5),
       new THREE.Vector3(0, 0, -15.0),
       new THREE.Vector3(6, 0, -14.5),
-      new THREE.Vector3(-13, 0, -13.0),
+      new THREE.Vector3(-10, 0, -14.0),
     ],
   };
   const lanes = {
